@@ -8,6 +8,6 @@ Source the script in R Studio.
 
 This script does make use of the dplyr package, which must be installed first
 
-After the script run, a data frame called MTStep5a is produced, which contains one line for
+After the script is sourced, a data frame called MTStep5a is produced, which contains one line for
 each Subject/Activity combination from the dataset.  Each of the other columns provides the
 mean value for the measurement for that particular Subject/Activity 
